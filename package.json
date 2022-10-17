@@ -1,0 +1,34 @@
+{
+  "name": "react-video-chat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infysumanta/node-react-video-chat-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/infysumanta/node-react-video-chat-app/issues"
+  },
+  "homepage": "https://github.com/infysumanta/node-react-video-chat-app#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-joi-validation": "^5.0.1",
+    "joi": "^17.6.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
