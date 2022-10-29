@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/infysumanta/node-react-video-chat-app.git"
+    "url": "git+https://github.com/infysumanta/node-react-video-chat-app-api.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/infysumanta/node-react-video-chat-app/issues"
+    "url": "https://github.com/infysumanta/node-react-video-chat-app-api/issues"
   },
-  "homepage": "https://github.com/infysumanta/node-react-video-chat-app#readme",
+  "homepage": "https://github.com/infysumanta/node-react-video-chat-app-api#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
